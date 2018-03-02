@@ -1,0 +1,9 @@
+final notes 
+
+should know three ways to generate arrays *user input *rand gen or *file reader.
+
+know how to find the sum avg and deviation of each col row and whole table
+row and col traversal 
+know the min and max of the rows and cols using the sum. max sum and min sum
+
+know to compare data to a one dimensional array to a 2 dimensional array
